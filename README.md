@@ -1,2 +1,4 @@
 # React
-Repositorio destinado al aprendizaje de React
+
+Repositorio destinado al aprendizaje de React.
+
